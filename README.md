@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+
+- I'm Alessandra 🏳️‍🌈 a computer science student from Italy, welcome on my GitHub profile.
+- Love to code in C, C++ and Java ☕
+- Other hobbies singing in the rain 🌧️
 
 <!--
 **alessandralorello/alessandralorello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
